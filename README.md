@@ -33,7 +33,7 @@ Umjesto post-produkcijskih trikova, savijanje svjetlosti ostvareno je **stvarnom
 ## Kako to izgleda
 
 ```md
-![preview](/0001-0180.mkv)
+![preview](0001-0180.mkv)
 ```
 
 ## Korištene tehnike
