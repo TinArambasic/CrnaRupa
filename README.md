@@ -33,6 +33,7 @@ Umjesto post-produkcijskih trikova, savijanje svjetlosti ostvareno je **stvarnom
 ## Kako to izgleda
 
 Video renderirane animacije nalazi se u korijenu repozitorija: 0001-0180.mkv
+Video demonstracija je dostupna na linku https://www.youtube.com/watch?v=VOWv3d9-U8Q
 
 ## Korištene tehnike
 
