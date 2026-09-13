@@ -32,9 +32,7 @@ Umjesto post-produkcijskih trikova, savijanje svjetlosti ostvareno je **stvarnom
 
 ## Kako to izgleda
 
-```md
-![preview](0001-0180.mkv)
-```
+Video renderirane animacije nalazi se u korijenu repozitorija: 0001-0180.mkv
 
 ## Korištene tehnike
 
