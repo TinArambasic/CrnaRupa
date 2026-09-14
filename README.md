@@ -63,8 +63,8 @@ Scena je organizirana kroz tri glavna materijala, svaki primijenjen na zaseban o
 ## Pokretanje
 
 ```bash
-git clone https://github.com/<tvoj-username>/<naziv-repozitorija>.git
-cd <naziv-repozitorija>
+git clone https://github.com/TinArambasic/CrnaRupa.git
+cd CrnaRupa
 ```
 
 Otvori `.blend` datoteku direktno u Blenderu:
